@@ -12,3 +12,8 @@ Radius = prompt("Please enter the raidus of the cup");
 Radius = parseInt(height); // Convert to type 'int' 
 
 volume=(PI(Radius * Radius) * Height);
+
+} 
+
+//--> 
+</script> 
